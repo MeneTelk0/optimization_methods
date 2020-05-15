@@ -15,8 +15,8 @@ Minimization problem taken as an example for this program:
 
 ## Results 
 The results of program work are shown on the contour plots. Depending on how far the points were from the minimum of the function, we can see different patterns of movement to a minimum.  Moreover, this movement always occurs along the boundary of the admissible region of the function, which corresponds to the work of the __Projected Gradient Decrease__ method.
-- First picture: __[2,2]__ -> __[1,4]__ -> __[1,4.5]__ -> __[1.33, 4.66]__ 
-- Second picture: __[2,3]__ -> __[2.2,3.8]__ -> __[1.33, 4.66]__ 
+- Left picture: __[2,2]__ -> __[1,4]__ -> __[1,4.5]__ -> __[1.33, 4.66]__ 
+- Right picture: __[2,3]__ -> __[2.2,3.8]__ -> __[1.33, 4.66]__ 
 
 <p float="center">
 <img src="https://github.com/MeneTelk0/optimization_methods/blob/master/gitfiles/first.png" width="400">
